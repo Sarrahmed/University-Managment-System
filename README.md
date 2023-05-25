@@ -23,6 +23,7 @@ The University Management System is a software application designed to streamlin
 
 1. Clone the repository: `git clone https://github.com/your-username/university-management-system.git`
 
+
 ## Contributing
 
 Contributions to the University Management System project are welcome. If you would like to contribute, please follow these steps:
